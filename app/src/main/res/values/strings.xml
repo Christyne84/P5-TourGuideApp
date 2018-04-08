@@ -1,0 +1,107 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Frankfurt</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Category name for the vocabulary infos for colors [CHAR LIMIT=20] -->
+    <string name="category_sleep">Sleep</string>
+
+    <!-- Category name for the vocabulary infos for numbers [CHAR LIMIT=20] -->
+    <string name="category_know">Know</string>
+
+    <!-- Category name for the vocabulary infos for family members [CHAR LIMIT=20] -->
+    <string name="category_see">See</string>
+
+    <!-- Know category strings for title and subtitle -->
+    <string name="history_title">History</string>
+    <string name="area_title">Area</string>
+    <string name="climate_title">Climate</string>
+    <string name="demography_title">Demography</string>
+    <string name="transport_title">Transport</string>
+    <string name="economy_title">Economy</string>
+    <string name="life_quality_title">Life quality</string>
+    <string name="healt_title">Health</string>
+    <string name="education_title">Education</string>
+    <string name="religion_title">Religion</string>
+    <string name="traditions_title">Traditions</string>
+    <string name="shopping_title">Shopping</string>
+    <string name="emergency_title">Emergency</string>
+    <string name="history_subtitle">Frankfurt was a city state, the Free City of Frankfurt, for nearly five centuries, and was one of the most important cities of the Holy Roman Empire; it lost its sovereignty in 1866. The end of the war marked Frankfurt\'s comeback as Germany\'s leading financial centre.</string>
+    <string name="area_subtitle">The geographic center of the EU, Frankfurt am Main is a metropolis, the largest city in the German state of Hesse and the fifth-largest city in Germany. Frankfurt is located on both sides of the Main River, south-east of the Taunus mountain range. The southern part of the city contains the Frankfurt City Forest, Germany\'s largest city forest. The city area is 248.31 km2 (95.87 sq mi) and extends over 23.4 km (14.54 mi) east to west and 23.3 km (14.48 mi) north to south. Frankfurt is the centre of the densely populated Frankfurt Rhine-Main Metropolitan Region with a population of 5.5 million.</string>
+    <string name="climate_subtitle">Frankfurt and the Rhine-Main area are located at the northern end of the Upper Rhine Plain, which is climatically one of the warmest regions in Germany. The average annual temperature is 10.5 ° C over that of other German metropolises. The Frankfurt climate is therefore mild overall, with relatively little rainfall. The warmest months are June to August with an average of 17.8 to 20.0 ° C and the coldest, December to February with 1.6 to 2.5 ° C on average.</string>
+    <string name="demography_subtitle">With a population of 732,688 in 2015 within its administrative boundaries and of 2,300,000 in the actual urban area, Frankfurt is the fifth largest city in Germany. The population of Frankfurt in 2015 had an average age of 40.8 years. The Frankfurt fertility rate of 47.4 is significantly above the corresponding figures for Hesse (44.3) and Germany (42.8).</string>
+    <string name="transport_subtitle"><![CDATA[Its central location within Germany and Europe makes Frankfurt a major air, rail and road transport hub. According to a study by Marsh & McLennan Companies (2009), Frankfurt has the eighth best infrastructure of all cities in the world. The first airline in the world ( DELAG ) was founded in Frankfurt in 1909. Frankfurt am Main is directly connected to five motorways. Frankfurt Central Station is one of the largest rail stations in Europe. Frankfurt Airport is one of the world\'s busiest international airports by passenger traffic and the main hub for Germany\'s flag carrier Lufthansa.]]></string>
+    <string name="economy_subtitle">The city is today one of Europe\'s richest and most productive cities. This is also reflected in the high number of international company representatives. It is the city with the highest job density and most commuters in Germany. The largest single industry is the financial and insurance services, employing around 74,700 people. Known especially for its strong financial sector, Frankfurt am Main is also home to many other important sectors: the creative industry, the IT and telecommunications sector, biotechnology and life sciences, logistics and industry.</string>
+    <string name="life_quality_subtitle">Frankfurt ranked 7th by Mercer Foundation’s survey “QUALITY OF LIVING CITY RANKING 2018” which includes  231 cities throughout the world. Mercer’s survey also includes a city infrastructure ranking that assesses each city’s supply of electricity, drinking water, telephone and mail services, and public transportation as well as traffic congestion and the range of international flights available from local airports. Singapore tops the city infrastructure ranking, followed by Frankfurt and Munich both in 2nd place.</string>
+    <string name="health_subtitle">Frankfurt is a founding member of the Healthy Cities Network of the Federal Republic of Germany and thus recognized as a competence center for migration and public health. The citizens have numerous advice centers, also for health prevention available. As a traffic hub, both travel and tropical medicine play a special role as well as new and emerging infectious diseases. In Frankfurt there are 17 hospitals with about 6,000 beds for inpatient treatment. There are also 1 706, 546 panel doctors and 174 pharmacies of which only a few are opened 24 hours.</string>
+    <string name="education_subtitle"><![CDATA[Frankfurt hosts a number of great schools: Johann Wolfgang Goethe University, the  Frankfurt University of Applied Sciences,  Frankfurt School of Finance & Management, State Institution of Higher Learning for Artistic Education known as the Städelschule,  Frankfurt University of Music and Performing Arts, and the Hoch Conservatory, Other notable education institutions are:  Sankt Georgen Graduate School of Philosophy and Theology; three Max Planck Society institutes: the Max Planck Institute for European History of Law (MPIeR), Max Planck Institute for Biophysics, and the Max Planck Institute for Brain Research;  Frankfurt Institute for Advanced Studies; Römisch-Germanische-Kommission (RGK), the German Archaeological Institute branch for prehistoric archaeology in Germany and Europe.]]></string>
+    <string name="religion_subtitle">At the end of 2016, 21.5% of the population was Roman Catholic, 17.5% Protestant and 61% belonged to other religion or religious communities or were not belonging to any religion. Frankfurt offers places of worship for many different religions.</string>
+    <string name="traditions_subtitle">Culinary: Apfelwein(Apple wine or hard cider), Grüne Soße(Green sauce), Ebbelwei, Frankfurter sausages, Handkäs mit Musik (German regional sour milk cheese), Frankfurter Kranz (cake), Bethmännchen (marzipan pastry); Bembel (cider pitcher); Apfelweinglas(cider glass); the big city chimes, Frankfurt kitchen (the world\'s first fitted kitchen), Wasserhäuschen (water kiosks), porcelain manufacturer (Germany\'s second-oldest porcelain manufactory), \"Frankfurt Design Spirit\" (in the field of architecture, but also in product design and typography).</string>
+    <string name="shopping_subtitle">The biggest shopping streets are located in the city center:  Zeil, Goethestraße and Freßgass. Most of the areas are pedestrian-only. Shops and department stores are usually open from Monday to Saturday from 10:00 to 20:00. Most supermarkets are open from 07:00 to 22:00. All shops are closed on Sundays and public holidays.</string>
+    <string name="emergency_subtitle">Police: 110\nFire / Rescue Service: 112\nEmergency fax for the hearing and speech impaired: 112\nSecurity Telephone: (069) 212 44044\nWomen\'s Emergency Call: (069) 709494\nChild and youth protection telephone: 0800 2010111 (Mon-Fri 8-23 clock, Sat / Sun 10-23 clock).</string>
+
+    <!-- See category strings for title and subtitle -->
+    <string name="see_info_list_item_title1">Staedel Museum</string>
+    <string name="see_info_list_item_title2">English Theatre</string>
+    <string name="see_info_list_item_title3">Museumsufer</string>
+    <string name="see_info_list_item_title4">Palmengarten</string>
+    <string name="see_info_list_item_title5">Dialog Museum</string>
+    <string name="see_info_list_item_title6">Kleinmarkthalle</string>
+    <string name="see_info_list_item_title7">Klassikstadt</string>
+    <string name="see_info_list_item_title8">Senckenberg Natural History Museum</string>
+    <string name="see_info_list_item_title9">German Film Museum</string>
+    <string name="see_info_list_item_title10">Frankfurt Messe</string>
+    <string name="art_museums_subtitle">Art Museums</string>
+    <string name="theaters_subtitle">Theaters</string>
+    <string name="walks_subtitle">Walks</string>
+    <string name="gardens_subtitle">Gardens</string>
+    <string name="specialty_museums_subtitle">Specialty Museums</string>
+    <string name="flea_markets_subtitle"><![CDATA[Flea & Street Markets]]></string>
+    <string name="history_museums_subtitle">History Museums</string>
+    <string name="exhibitions_fairs_subtitle">Exhibitions / fairs</string>
+
+    <!-- Sleep category strings for title and subtitle -->
+    <string name="sleep_info_list_item_title1">Premier Inn Frankfurt Messe</string>
+    <string name="sleep_info_list_item_title2">Villa Kennedy</string>
+    <string name="sleep_info_list_item_title3">Grandhotel Hessischer Hof - Hotel Frankfurt</string>
+    <string name="sleep_info_list_item_title4">Capri by Fraser Frankfurt</string>
+    <string name="sleep_info_list_item_title5">Jumeirah Frankfurt</string>
+    <string name="sleep_info_list_item_title6">Adina Apartment Hotel Frankfurt Neue Oper</string>
+    <string name="sleep_info_list_item_title7">INNSIDE by Melia Frankfurt Ostend</string>
+    <string name="sleep_info_list_item_title8">Hotel Hamburger Hof</string>
+    <string name="sleep_info_list_item_subtitle1">€52 / night</string>
+    <string name="sleep_info_list_item_subtitle2">€167 / night</string>
+    <string name="sleep_info_list_item_subtitle3">€167 / night</string>
+    <string name="sleep_info_list_item_subtitle4">€70 / night</string>
+    <string name="sleep_info_list_item_subtitle5">€213 / night</string>
+    <string name="sleep_info_list_item_subtitle6">€135 / night</string>
+    <string name="sleep_info_list_item_subtitle7">€53 / night</string>
+    <string name="sleep_info_list_item_subtitle8">€103 / night</string>
+
+    <!-- Eat category strings for title and subtitle -->
+    <string name="eat_info_list_item_title1">Adabina</string>
+    <string name="eat_info_list_item_title2">Restaurant Adolon</string>
+    <string name="eat_info_list_item_title3">Maindiner</string>
+    <string name="eat_info_list_item_title4">Ariston</string>
+    <string name="eat_info_list_item_title5">Restaurant Sevres</string>
+    <string name="eat_info_list_item_title6">African Queen</string>
+    <string name="eat_info_list_item_title7"><![CDATA[Thai & Turf - Steakhouse]]></string>
+    <string name="eat_info_list_item_title8">Restaurant Medici</string>
+    <string name="eat_info_list_item_title9">Kabuki Frankfurt</string>
+    <string name="eat_info_list_item_title10">Muku</string>
+    <string name="african_ethiopian_subtitle">African, Ethiopian</string>
+    <string name="seafood_mediterranean_subtitle">Seafood, Mediterranean</string>
+    <string name="american_steakhouse_subtitle">American, Steakhouse</string>
+    <string name="french_european_subtitle">French, European</string>
+    <string name="steakhouse_thai_subtitle">Steakhouse, Thai</string>
+    <string name="mediterranean_european_subtitle">Mediterranean, European</string>
+    <string name="steakhouse_japanese_subtitle">Steakhouse, Japanese</string>
+    <string name="japanese_asian_subtitle">Japanese, Asian</string>
+
+    <!-- Info list item images id strings -->
+    <string name="list_item_arrow_image">arrow</string>
+    <string name="list_item_image">list item image</string>
+    <string name="image_banner_description">Image banner that is changing from one fragment to another</string>
+</resources>
